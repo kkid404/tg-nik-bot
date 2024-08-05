@@ -1,0 +1,1 @@
+from middlewaries.worker import UserMiddleware
